@@ -1,4 +1,4 @@
-from Retrieval.core import run_llm
+from Retrieval.retrieve import run_llm
 import streamlit as st
 from streamlit_chat import message
 
